@@ -18,9 +18,10 @@
 
 <h2 id="layout">🎨 Layout</h2>
 
-<p align="center">
-    <img src="../.github/example.png" alt="Exemplo de Imagem" width="400px">
-    <img src="../.github/example.png" alt="Exemplo de Imagem" width="400px">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+    <img src="./imagens/tela_home.jpg" alt="Tela Inicial" width="200px" style="border-radius: 8px;">
+    <img src="./imagens/tela_inicial.jpg" alt="Tela Home" width="200px" style="border-radius: 8px;">
+    <img src="./imagens/tela_principal.jpg" alt="Tela Principal" width="200px" style="border-radius: 8px;">
 </p>
 
 <h2 id="tecnologias">💻 Tecnologias</h2>
@@ -31,3 +32,22 @@
 - Integração com mapas
 - Câmera e leitura de códigos de barras
 - API local (back-end)
+
+<h2 id="instalacao">⚙️ Como Utilizar</h2>
+
+<p align="center">
+    <b>Para utilizar este projeto, é necessário ter o <a href="https://reactnative.dev/docs/environment-setup" target="_blank">React Native</a> e o <a href="https://docs.expo.dev/get-started/installation/" target="_blank">Expo Go</a> instalados na sua máquina.</b>
+</p>
+
+<h3>Passos para rodar a aplicação localmente:</h3>
+
+<ol>
+  <li>Clone este repositório</li>
+  <li>Entre no diretório do projeto</li>
+  <li>Instale as dependências</li>
+  <li>Inicie o servidor local</li>
+</ol>
+
+<p align="center">
+    <b>Agora você pode ver a aplicação rodando localmente!</b>
+</p>
