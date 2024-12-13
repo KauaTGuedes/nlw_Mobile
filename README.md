@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 Acesse o Projeto</a>
-</p>
-
-<p align="center">
     <i>Este projeto foi desenvolvido durante o curso da <b>Rocketseat</b>.</i>
 </p>
 
